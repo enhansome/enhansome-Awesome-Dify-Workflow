@@ -1,0 +1,195 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "❤️赞助商"
+    },
+    {
+      "description": "这里总结了一些群里常见的问题，不定期更新，内容不会很多，希望对你有帮助。\nAI 流程平台对比——Dify、Fastgpt、Ragflow\nA：我一般把所有image，前面的链接加上 dockerpull.org\nA：你的做法是对的，只是你的图片不支持跨域，所以没渲染出来\nA:nginx 也要改；在.env里面；搜 nginx，应该能找到",
+      "items": [],
+      "title": "常见问题"
+    },
+    {
+      "description": "sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，例如 ，你可以尝试使用我开发的另外一个简单版dify-sandbox-py，这些依赖已经测试可以使用。",
+      "items": [],
+      "title": "SANDBOX"
+    },
+    {
+      "description": "插件功能是DIFY 1.0最大的更新，dify_plugin_collection 仓库存放着 DIFY 的官方市场 插件安装包，方便批量下载，不定期更新。\n如果你希望 开发插件，我做了4款插件，都已上架插件商店。代码都已开源，包含Agent strategy，Tool，Extension 希望可以给你参考。\n",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Artifacts",
+          "description": "：这是Extension，它借鉴了 Anthropic 的 Artifacts 功能，做HTML的渲染，你可以参考这份代码，做一个简单的用户交互界面。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-04-24T02:29:42Z",
+            "owner": "svcvit",
+            "repo": "dify-plugin-artifacts",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "对话Agent",
+          "description": "：这是Agent strategy，Agent策略抽象了Dify的很多能力，可以有很多玩法，但是对开发者要求比较高，你需要有产品思维，还需要一定的开发能力。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-24T09:25:47Z",
+            "owner": "svcvit",
+            "repo": "dify-plugin-tod_agent",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "google翻译",
+          "description": "：这是Tool，代码很少，看完之后可以理解DIFY插件的文件结构",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-06T08:10:34Z",
+            "owner": "svcvit",
+            "repo": "dify-plugin-google_translate",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "DIFY 1.0 插件"
+    },
+    {
+      "description": "如果你知道熟悉 Docker环境，可以按照官方教程，使用Docker进行DIFY的本地部署。如果你懒得折腾，官方 https://cloud.dify.ai/ 也是个不错的选择，免费用户可以创建最多5个流程。后期可以直接充值使用。",
+      "items": [],
+      "title": "DIFY 部署"
+    },
+    {
+      "description": "所有 DSL 都为工作流模式，可以方便的发布为工具后，嵌入 ChatBot 流程。工作流会包含基础的输入、条件判断、变量聚合器、输出等内容。\n你可以参考下面每个 yml 的描述，找到你需要的 Workflow，然后在 DSL 文件夹中找到对应的文件，复制文件的 URL，导入自己的 Dify 账号即可。",
+      "items": [],
+      "title": "参考截图"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2025-06-06更新"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2025-04-23更新"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2025-04-17更新"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2025-04-16更新"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2025-04-07更新"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2025-03-21更新"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2025-02-24更新"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2025-02-17更新"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2025-01-23更新"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2025-01-21更新"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2024-12-05更新"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2024-11-29更新"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2024-11-22更新"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2024-11-20更新"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2024-11-15更新"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2024-11-14更新"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2024-11-12更新"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "翻译"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "工具"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "聊天机器人"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "代码"
+    },
+    {
+      "description": "注册 Dify 账号，添加模型。\n\n\n下载本项目至本地，导入 DLS 文件即可，当然，你可以进行必要的调整，例如模版的调整，或提示词的调整。\n\n\n",
+      "items": [],
+      "title": "使用方法"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T14:37:45.515Z",
+    "original_repository": "svcvit/Awesome-Dify-Workflow",
+    "original_repository_sha": "e730ed3627e5fa56fc1668d995b83178b6b1181c",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Dify-Workflow",
+    "enhanced_repository_description": null,
+    "title": "Awesome-Dify-Workflow 🚀 with stars"
+  }
+}
