@@ -50,10 +50,341 @@
         }
       ],
       "title": "DIFY 1.0 插件"
+    },
+    {
+      "description": "你可以参考下面每个 yml 的描述，找到你需要的 Workflow，然后在 DSL 文件夹中找到对应的文件，复制文件的 URL，导入自己的 Dify 账号即可。",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/svcvit/dify-plugin-artifacts",
+              "description": "需要搭配我开发的一个DIFY插件使用，类似claude的Artifact功能，可以渲染LLM生成的HTML代码和cavas。项目地址 https://github.com/svcvit/dify-plugin-artifacts 按照操作设置一下扩展即可使用。 dify-plugin-artifacts",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 970783488,
+                "language": "HTML",
+                "last_commit": "2025-04-24T02:29:42Z",
+                "owner": "svcvit",
+                "repo": "dify-plugin-artifacts",
+                "stars": 98
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2025-04-23更新"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/apconw/sanic-web",
+              "description": "这是一个使用DIFY作为服务层的数据库问答项目，项目有独立的web交互界面，请访问 https://github.com/apconw/sanic-web 查看详情。项目完成度很高，按照文档一步步操作即可启动。使用ollama的qwen和deepseek模型，即可获得不错的效果。 sanic-web",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 888874620,
+                "language": "JavaScript",
+                "last_commit": "2026-06-22T06:39:44Z",
+                "owner": "apconw",
+                "repo": "Aix-DB",
+                "stars": 2231
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2025-04-17更新"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "@AdamPlatin123",
+              "description": "Deep Researcher 工作流复现方案 @AdamPlatin123",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 932223285,
+                "language": null,
+                "last_commit": "2026-08-18T20:06:46Z",
+                "owner": "AdamPlatin123",
+                "repo": "Open-Deep-Research-workflow-on-Dify",
+                "stars": 320
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2025-02-24更新"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/modelscope/modelscope/tree/master/examples/apps/llm_riddles",
+              "description": "【完蛋！我被LLM包围了！】借鉴了：https://github.com/modelscope/modelscope/tree/master/examples/apps/llm_riddles 微信群@Junjie.M",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 517552648,
+                "language": "Python",
+                "last_commit": "2026-08-24T04:11:32Z",
+                "owner": "modelscope",
+                "repo": "modelscope",
+                "stars": 9104
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2025-01-21更新"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "dify-sandbox-py",
+              "description": "使用sandbox读取文件并解析，需要使用dify-sandbox-py，挂在上传目录，这是一个pandas读取csv的示例，具体方法参考右侧来源链接 @svcvit",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 891948724,
+                "language": "Python",
+                "last_commit": "2025-04-28T09:00:31Z",
+                "owner": "svcvit",
+                "repo": "dify-sandbox-py",
+                "stars": 395
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2024-12-05更新"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "langfixer",
+              "description": "三语言检查器，主要处理翻译的内容优化，它还有一个web端配套 langfixer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 893015198,
+                "language": "Vue",
+                "last_commit": "2024-11-24T02:18:52Z",
+                "owner": "stvlynn",
+                "repo": "langfixer",
+                "stars": 24
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2024-11-29更新"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "dify-sandbox-py",
+              "description": "使用matplotlib画图，将图片输出为base64，再通过回复渲染图片。注意，官方sandbox权限比较复杂，安装完matplotlib也无法使用，请使用dify-sandbox-py 。如果使用dify1.0以上版本无法渲染图片，请查看 https://github.com/svcvit/dify-sandbox-py/issues/11 @svcvit",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 891948724,
+                "language": "Python",
+                "last_commit": "2025-04-28T09:00:31Z",
+                "owner": "svcvit",
+                "repo": "dify-sandbox-py",
+                "stars": 395
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dify-sandbox-py",
+              "description": "jieba 分词示例，请使用dify-sandbox-py @svcvit",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 891948724,
+                "language": "Python",
+                "last_commit": "2025-04-28T09:00:31Z",
+                "owner": "svcvit",
+                "repo": "dify-sandbox-py",
+                "stars": 395
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2024-11-22更新"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "translation-agent",
+              "description": "使用吴恩达提出 Agentic Workflow 制作的翻译工具，录入、、、 4 个参数，提供更细致的翻译结果 translation-agent",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 799728414,
+                "language": "Python",
+                "last_commit": "2024-08-04T06:14:56Z",
+                "owner": "andrewyng",
+                "repo": "translation-agent",
+                "stars": 5802
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "翻译"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Winson-030",
+              "description": "一个通过知识库聊天的模版 Winson-030",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 815489582,
+                "language": null,
+                "last_commit": "2024-07-24T23:53:58Z",
+                "owner": "Winson-030",
+                "repo": "dify-DSL",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Winson-030",
+              "description": "通过 SearXNG 进行搜索，再通过 jina 获取搜索内容 Winson-030",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 815489582,
+                "language": null,
+                "last_commit": "2024-07-24T23:53:58Z",
+                "owner": "Winson-030",
+                "repo": "dify-DSL",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ghostviper",
+              "description": "一位爆款网文作家 ghostviper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 820466484,
+                "language": null,
+                "last_commit": "2024-06-27T15:33:20Z",
+                "owner": "ghostviper",
+                "repo": "dify-workflow",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ghostviper",
+              "description": "文章仿写 ghostviper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 820466484,
+                "language": null,
+                "last_commit": "2024-06-27T15:33:20Z",
+                "owner": "ghostviper",
+                "repo": "dify-workflow",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dify_course",
+              "description": "自动化生成全套教程。 dify_course",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 874066197,
+                "language": null,
+                "last_commit": "2025-08-12T01:40:40Z",
+                "owner": "pekingmuge",
+                "repo": "dify_course",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aws-samples",
+              "description": "简易自制 Kimi aws-samples",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 822381090,
+                "language": "Python",
+                "last_commit": "2026-06-06T02:31:12Z",
+                "owner": "aws-samples",
+                "repo": "dify-aws-tool",
+                "stars": 179
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aws-samples",
+              "description": "不同代码种类之间的翻译工作流 aws-samples",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 822381090,
+                "language": "Python",
+                "last_commit": "2026-06-06T02:31:12Z",
+                "owner": "aws-samples",
+                "repo": "dify-aws-tool",
+                "stars": 179
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "工具"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "dify-plugin-mem0ai",
+              "description": "一个有记忆的聊天流程，完整代码见来源链接 dify-plugin-mem0ai",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 832937089,
+                "language": "Python",
+                "last_commit": "2024-07-25T11:17:42Z",
+                "owner": "chisaki-takahashi",
+                "repo": "dify-plugin-mem0ai",
+                "stars": 50
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "聊天机器人"
+        }
+      ],
+      "title": "DSL 目录"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:58:13.282Z",
+    "last_updated": "2026-08-24T13:52:28.953Z",
     "original_repository": "svcvit/Awesome-Dify-Workflow",
     "original_repository_id": 829257235,
     "original_repository_sha": "e730ed3627e5fa56fc1668d995b83178b6b1181c",
