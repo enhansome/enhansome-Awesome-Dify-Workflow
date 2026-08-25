@@ -90,7 +90,7 @@
                 "last_commit": "2026-06-22T06:39:44Z",
                 "owner": "apconw",
                 "repo": "Aix-DB",
-                "stars": 2231
+                "stars": 2233
               }
             }
           ],
@@ -131,10 +131,10 @@
                 "archived": false,
                 "id": 517552648,
                 "language": "Python",
-                "last_commit": "2026-08-24T04:11:32Z",
+                "last_commit": "2026-08-25T14:21:39Z",
                 "owner": "modelscope",
                 "repo": "modelscope",
-                "stars": 9106
+                "stars": 9107
               }
             }
           ],
@@ -156,7 +156,7 @@
                 "last_commit": "2025-04-28T09:00:31Z",
                 "owner": "svcvit",
                 "repo": "dify-sandbox-py",
-                "stars": 395
+                "stars": 396
               }
             }
           ],
@@ -200,7 +200,7 @@
                 "last_commit": "2025-04-28T09:00:31Z",
                 "owner": "svcvit",
                 "repo": "dify-sandbox-py",
-                "stars": 395
+                "stars": 396
               }
             },
             {
@@ -215,7 +215,7 @@
                 "last_commit": "2025-04-28T09:00:31Z",
                 "owner": "svcvit",
                 "repo": "dify-sandbox-py",
-                "stars": 395
+                "stars": 396
               }
             }
           ],
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:46:44.192Z",
+    "last_updated": "2026-08-25T14:26:09.479Z",
     "original_repository": "svcvit/Awesome-Dify-Workflow",
     "original_repository_id": 829257235,
     "original_repository_sha": "e730ed3627e5fa56fc1668d995b83178b6b1181c",
