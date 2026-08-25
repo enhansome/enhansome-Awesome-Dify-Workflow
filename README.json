@@ -58,7 +58,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/svcvit/dify-plugin-artifacts",
+              "title": "dify-plugin-artifacts",
               "description": "需要搭配我开发的一个DIFY插件使用，类似claude的Artifact功能，可以渲染LLM生成的HTML代码和cavas。项目地址 https://github.com/svcvit/dify-plugin-artifacts 按照操作设置一下扩展即可使用。 dify-plugin-artifacts",
               "children": [],
               "repo_info": {
@@ -80,7 +80,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/apconw/sanic-web",
+              "title": "Aix-DB",
               "description": "这是一个使用DIFY作为服务层的数据库问答项目，项目有独立的web交互界面，请访问 https://github.com/apconw/sanic-web 查看详情。项目完成度很高，按照文档一步步操作即可启动。使用ollama的qwen和deepseek模型，即可获得不错的效果。 sanic-web",
               "children": [],
               "repo_info": {
@@ -124,7 +124,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/modelscope/modelscope/tree/master/examples/apps/llm_riddles",
+              "title": "modelscope",
               "description": "【完蛋！我被LLM包围了！】借鉴了：https://github.com/modelscope/modelscope/tree/master/examples/apps/llm_riddles 微信群@Junjie.M",
               "children": [],
               "repo_info": {
@@ -134,7 +134,7 @@
                 "last_commit": "2026-08-24T04:11:32Z",
                 "owner": "modelscope",
                 "repo": "modelscope",
-                "stars": 9104
+                "stars": 9106
               }
             }
           ],
@@ -237,7 +237,7 @@
                 "last_commit": "2024-08-04T06:14:56Z",
                 "owner": "andrewyng",
                 "repo": "translation-agent",
-                "stars": 5802
+                "stars": 5800
               }
             }
           ],
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:48:56.601Z",
+    "last_updated": "2026-08-25T05:46:44.192Z",
     "original_repository": "svcvit/Awesome-Dify-Workflow",
     "original_repository_id": 829257235,
     "original_repository_sha": "e730ed3627e5fa56fc1668d995b83178b6b1181c",
