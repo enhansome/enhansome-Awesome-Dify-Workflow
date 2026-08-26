@@ -90,7 +90,7 @@
                 "last_commit": "2026-06-22T06:39:44Z",
                 "owner": "apconw",
                 "repo": "Aix-DB",
-                "stars": 2233
+                "stars": 2234
               }
             }
           ],
@@ -134,7 +134,7 @@
                 "last_commit": "2026-08-25T14:21:39Z",
                 "owner": "modelscope",
                 "repo": "modelscope",
-                "stars": 9107
+                "stars": 9110
               }
             }
           ],
@@ -237,7 +237,7 @@
                 "last_commit": "2024-08-04T06:14:56Z",
                 "owner": "andrewyng",
                 "repo": "translation-agent",
-                "stars": 5800
+                "stars": 5804
               }
             }
           ],
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:26:09.479Z",
+    "last_updated": "2026-08-26T14:24:50.271Z",
     "original_repository": "svcvit/Awesome-Dify-Workflow",
     "original_repository_id": 829257235,
     "original_repository_sha": "e730ed3627e5fa56fc1668d995b83178b6b1181c",
