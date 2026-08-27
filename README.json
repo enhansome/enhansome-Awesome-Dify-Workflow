@@ -87,7 +87,7 @@
                 "archived": false,
                 "id": 888874620,
                 "language": "JavaScript",
-                "last_commit": "2026-06-22T06:39:44Z",
+                "last_commit": "2026-08-27T08:13:50Z",
                 "owner": "apconw",
                 "repo": "Aix-DB",
                 "stars": 2234
@@ -134,7 +134,7 @@
                 "last_commit": "2026-08-25T14:21:39Z",
                 "owner": "modelscope",
                 "repo": "modelscope",
-                "stars": 9110
+                "stars": 9111
               }
             }
           ],
@@ -237,7 +237,7 @@
                 "last_commit": "2024-08-04T06:14:56Z",
                 "owner": "andrewyng",
                 "repo": "translation-agent",
-                "stars": 5804
+                "stars": 5805
               }
             }
           ],
@@ -384,9 +384,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:24:50.271Z",
-    "original_repository": "svcvit/Awesome-Dify-Workflow",
-    "original_repository_id": 829257235,
+    "last_updated": "2026-08-27T11:22:50.617Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 829257235,
+      "language": null,
+      "last_commit": "2026-03-25T12:35:38Z",
+      "owner": "svcvit",
+      "repo": "Awesome-Dify-Workflow",
+      "stars": 10761
+    },
     "original_repository_sha": "e730ed3627e5fa56fc1668d995b83178b6b1181c",
     "enhanced_repository": "enhansome/enhansome-Awesome-Dify-Workflow",
     "enhanced_repository_description": null,
