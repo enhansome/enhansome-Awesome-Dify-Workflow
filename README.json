@@ -16,7 +16,8 @@
             "owner": "svcvit",
             "repo": "dify-plugin-artifacts",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T23:11:52.717Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "svcvit",
             "repo": "dify-plugin-tod_agent",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T23:11:52.717Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "svcvit",
             "repo": "dify-plugin-google_translate",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T23:11:52.717Z"
         }
       ],
       "title": "DIFY 1.0 插件"
@@ -69,7 +72,8 @@
                 "owner": "svcvit",
                 "repo": "dify-plugin-artifacts",
                 "stars": 98
-              }
+              },
+              "first_seen": "2026-08-28T23:11:52.717Z"
             }
           ],
           "description": null,
@@ -90,8 +94,9 @@
                 "last_commit": "2026-08-27T08:13:50Z",
                 "owner": "apconw",
                 "repo": "Aix-DB",
-                "stars": 2234
-              }
+                "stars": 2236
+              },
+              "first_seen": "2026-08-28T23:11:52.717Z"
             }
           ],
           "description": null,
@@ -113,7 +118,8 @@
                 "owner": "AdamPlatin123",
                 "repo": "Open-Deep-Research-workflow-on-Dify",
                 "stars": 320
-              }
+              },
+              "first_seen": "2026-08-28T23:11:52.717Z"
             }
           ],
           "description": null,
@@ -131,11 +137,12 @@
                 "archived": false,
                 "id": 517552648,
                 "language": "Python",
-                "last_commit": "2026-08-25T14:21:39Z",
+                "last_commit": "2026-08-28T09:07:08Z",
                 "owner": "modelscope",
                 "repo": "modelscope",
-                "stars": 9112
-              }
+                "stars": 9116
+              },
+              "first_seen": "2026-08-28T23:11:52.717Z"
             }
           ],
           "description": null,
@@ -157,7 +164,8 @@
                 "owner": "svcvit",
                 "repo": "dify-sandbox-py",
                 "stars": 396
-              }
+              },
+              "first_seen": "2026-08-28T23:11:52.717Z"
             }
           ],
           "description": null,
@@ -179,7 +187,8 @@
                 "owner": "stvlynn",
                 "repo": "langfixer",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T23:11:52.717Z"
             }
           ],
           "description": null,
@@ -201,7 +210,8 @@
                 "owner": "svcvit",
                 "repo": "dify-sandbox-py",
                 "stars": 396
-              }
+              },
+              "first_seen": "2026-08-28T23:11:52.717Z"
             },
             {
               "node_type": "item",
@@ -216,7 +226,8 @@
                 "owner": "svcvit",
                 "repo": "dify-sandbox-py",
                 "stars": 396
-              }
+              },
+              "first_seen": "2026-08-28T23:11:52.717Z"
             }
           ],
           "description": null,
@@ -237,8 +248,9 @@
                 "last_commit": "2024-08-04T06:14:56Z",
                 "owner": "andrewyng",
                 "repo": "translation-agent",
-                "stars": 5805
-              }
+                "stars": 5807
+              },
+              "first_seen": "2026-08-28T23:11:52.717Z"
             }
           ],
           "description": null,
@@ -260,7 +272,8 @@
                 "owner": "Winson-030",
                 "repo": "dify-DSL",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T23:11:52.717Z"
             },
             {
               "node_type": "item",
@@ -275,7 +288,8 @@
                 "owner": "Winson-030",
                 "repo": "dify-DSL",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T23:11:52.717Z"
             },
             {
               "node_type": "item",
@@ -290,7 +304,8 @@
                 "owner": "ghostviper",
                 "repo": "dify-workflow",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T23:11:52.717Z"
             },
             {
               "node_type": "item",
@@ -305,7 +320,8 @@
                 "owner": "ghostviper",
                 "repo": "dify-workflow",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T23:11:52.717Z"
             },
             {
               "node_type": "item",
@@ -320,7 +336,8 @@
                 "owner": "pekingmuge",
                 "repo": "dify_course",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T23:11:52.717Z"
             },
             {
               "node_type": "item",
@@ -335,7 +352,8 @@
                 "owner": "aws-samples",
                 "repo": "dify-aws-tool",
                 "stars": 179
-              }
+              },
+              "first_seen": "2026-08-28T23:11:52.717Z"
             },
             {
               "node_type": "item",
@@ -350,7 +368,8 @@
                 "owner": "aws-samples",
                 "repo": "dify-aws-tool",
                 "stars": 179
-              }
+              },
+              "first_seen": "2026-08-28T23:11:52.717Z"
             }
           ],
           "description": null,
@@ -372,7 +391,8 @@
                 "owner": "chisaki-takahashi",
                 "repo": "dify-plugin-mem0ai",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T23:11:52.717Z"
             }
           ],
           "description": null,
@@ -384,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:03:11.161Z",
+    "last_updated": "2026-08-28T23:11:52.717Z",
     "original_repository_info": {
       "archived": false,
       "id": 829257235,
@@ -392,7 +412,7 @@
       "last_commit": "2026-03-25T12:35:38Z",
       "owner": "svcvit",
       "repo": "Awesome-Dify-Workflow",
-      "stars": 10761
+      "stars": 10762
     },
     "original_repository_sha": "e730ed3627e5fa56fc1668d995b83178b6b1181c",
     "enhanced_repository": "enhansome/enhansome-Awesome-Dify-Workflow",

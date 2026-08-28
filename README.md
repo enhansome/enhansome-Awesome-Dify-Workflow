@@ -118,7 +118,7 @@ sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，�
 
 ## DIFY 1.0 插件
 
-插件功能是DIFY 1.0最大的更新，[dify\_plugin\_collection](https://github.com/svcvit/dify_plugin_collection) ⭐ 333 | 🐛 3 | 📅 2025-06-07 仓库存放着 DIFY 的[官方市场](https://marketplace.dify.ai/) 插件安装包，方便批量下载，不定期更新。
+插件功能是DIFY 1.0最大的更新，[dify\_plugin\_collection](https://github.com/svcvit/dify_plugin_collection) ⭐ 332 | 🐛 3 | 📅 2025-06-07 仓库存放着 DIFY 的[官方市场](https://marketplace.dify.ai/) 插件安装包，方便批量下载，不定期更新。
 
 如果你希望 **开发插件**，我做了4款插件，都已上架插件商店。代码都已开源，包含Agent strategy，Tool，Extension 希望可以给你参考。
 
@@ -161,7 +161,7 @@ sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，�
 
 | 文件          | 描述                                                                                                                                                                                                                                                                                          | 来源                                                                                                  |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| `sanic-web` | 这是一个使用DIFY作为服务层的数据库问答项目，项目有独立的web交互界面，请访问 <https://github.com/apconw/sanic-web> ⭐ 2,234 \| 🐛 17 \| 🌐 JavaScript \| 📅 2026-08-27 查看详情。项目完成度很高，按照文档一步步操作即可启动。使用ollama的qwen和deepseek模型，即可获得不错的效果。 ![](./snapshots/Xnip2025-04-17_10-25-14.jpg) ![](./snapshots/Xnip2025-04-17_10-24-49.jpg) | [sanic-web](https://github.com/apconw/sanic-web) ⭐ 2,234 \| 🐛 17 \| 🌐 JavaScript \| 📅 2026-08-27 |
+| `sanic-web` | 这是一个使用DIFY作为服务层的数据库问答项目，项目有独立的web交互界面，请访问 <https://github.com/apconw/sanic-web> ⭐ 2,236 \| 🐛 17 \| 🌐 JavaScript \| 📅 2026-08-27 查看详情。项目完成度很高，按照文档一步步操作即可启动。使用ollama的qwen和deepseek模型，即可获得不错的效果。 ![](./snapshots/Xnip2025-04-17_10-25-14.jpg) ![](./snapshots/Xnip2025-04-17_10-24-49.jpg) | [sanic-web](https://github.com/apconw/sanic-web) ⭐ 2,236 \| 🐛 17 \| 🌐 JavaScript \| 📅 2026-08-27 |
 
 ## 2025-04-16更新
 
@@ -205,7 +205,7 @@ sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，�
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
 | `春联生成器.yml`           | 春联生成工具，注意字体需要电脑有，可以按需修改字体。 ![](./snapshots/Xnip2025-01-21_09-21-11.jpg)                                                                                                                         | 微信群@Junjie.M |
 | `春联生成器 (“福”到了版本).yml` | ![](./snapshots/Xnip2025-01-21_09-22-59.jpg)                                                                                                                                                    | 微信群@Junjie.M |
-| `完蛋！我被LLM包围了！ .yml`   | 【完蛋！我被LLM包围了！】借鉴了：<https://github.com/modelscope/modelscope/tree/master/examples/apps/llm_riddles> ⭐ 9,112 \| 🐛 15 \| 🌐 Python \| 📅 2026-08-25  ![](./snapshots/Xnip2025-01-21_09-39-18.jpg) | 微信群@Junjie.M |
+| `完蛋！我被LLM包围了！ .yml`   | 【完蛋！我被LLM包围了！】借鉴了：<https://github.com/modelscope/modelscope/tree/master/examples/apps/llm_riddles> ⭐ 9,116 \| 🐛 15 \| 🌐 Python \| 📅 2026-08-28  ![](./snapshots/Xnip2025-01-21_09-39-18.jpg) | 微信群@Junjie.M |
 
 ## 2024-12-05更新
 
@@ -259,7 +259,7 @@ sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，�
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
 | `中译英.yml`                    | 通过宝玉的 Prompt，直译->反思->意译，将中文翻译成高质量的英文。 ![](./snapshots/Xnip2024-07-24_13-04-11.jpg)                                             | 暂无                                                                                                                 |
 | `DuckDuckGo 翻译+LLM 二次翻译.yml` | 与三步翻译类似，但是把第一步的直译变成传统翻译引擎翻译，节省 Token，提高翻译效率，同时提高翻译质量。 ![](./snapshots/Xnip2024-07-16_13-42-06.jpg)                             | 暂无                                                                                                                 |
-| `translation_workflow.yml`   | 使用吴恩达提出 Agentic Workflow 制作的翻译工具，录入`输入语言`、`目标语言`、`国家`、`原始文本` 4 个参数，提供更细致的翻译结果 ![snap](./snapshots/Xnip2024-07-16_16-58-05.jpg) | [translation-agent](https://github.com/andrewyng/translation-agent) ⭐ 5,805 \| 🐛 27 \| 🌐 Python \| 📅 2024-08-04 |
+| `translation_workflow.yml`   | 使用吴恩达提出 Agentic Workflow 制作的翻译工具，录入`输入语言`、`目标语言`、`国家`、`原始文本` 4 个参数，提供更细致的翻译结果 ![snap](./snapshots/Xnip2024-07-16_16-58-05.jpg) | [translation-agent](https://github.com/andrewyng/translation-agent) ⭐ 5,807 \| 🐛 27 \| 🌐 Python \| 📅 2024-08-04 |
 | `宝玉的英译中优化版.yml`              | 宝玉的科技文章翻译优化版本，主要优化了提示词和 xml 标签 ![snap](./snapshots/Xnip2024-08-01_13-47-25.jpg)                                                | [翻译 GPT 的提示词更新和优化](https://baoyu.io/blog/prompt-engineering/translator-gpt-prompt-v2-1-improvement)                |
 | `全书翻译.yml`                   | DIFY 官方示例，切分长文本，再迭代器内翻译 ![snap](./snapshots/Xnip2024-10-30_18-02-24.jpg)                                                       | DIFY 官方探索内容                                                                                                        |
 
@@ -312,4 +312,4 @@ sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
