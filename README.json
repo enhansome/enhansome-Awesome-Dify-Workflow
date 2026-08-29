@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A DIFY plugin used to render the HTML code output of LLM",
+            "homepage": null,
             "id": 970783488,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2025-04-24T02:29:42Z",
+            "open_issues": 17,
             "owner": "svcvit",
             "repo": "dify-plugin-artifacts",
-            "stars": 98
+            "stars": 98,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:11:52.717Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A powerful task-oriented dialogue agent that can collect information through structured conversations. It supports dynamic field validation, multi-field information extraction, and state management.",
+            "homepage": null,
             "id": 943755328,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-04-24T09:25:47Z",
+            "open_issues": 11,
             "owner": "svcvit",
             "repo": "dify-plugin-tod_agent",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:11:52.717Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A powerful translation tool plugin based on Google Translate service, supporting text translation between multiple languages.",
+            "homepage": null,
             "id": 943757279,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-06T08:10:34Z",
+            "open_issues": 0,
             "owner": "svcvit",
             "repo": "dify-plugin-google_translate",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:11:52.717Z"
         }
@@ -66,12 +81,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A DIFY plugin used to render the HTML code output of LLM",
+                "homepage": null,
                 "id": 970783488,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2025-04-24T02:29:42Z",
+                "open_issues": 17,
                 "owner": "svcvit",
                 "repo": "dify-plugin-artifacts",
-                "stars": 98
+                "stars": 98,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:52.717Z"
             }
@@ -89,12 +109,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Aix-DB 基于 LangChain/LangGraph 框架，结合 MCP Skills 多智能体协作架构，实现自然语言到数据洞察的端到端转换。",
+                "homepage": null,
                 "id": 888874620,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-08-27T08:13:50Z",
+                "open_issues": 17,
                 "owner": "apconw",
                 "repo": "Aix-DB",
-                "stars": 2236
+                "stars": 2236,
+                "topics": [
+                  "bigdata",
+                  "cli",
+                  "deepseek-r1",
+                  "dify",
+                  "echarts",
+                  "hermes",
+                  "lamaindex",
+                  "langchain",
+                  "langgraph-python",
+                  "mcp",
+                  "neo4j",
+                  "openclaw",
+                  "python",
+                  "qwen",
+                  "sanic",
+                  "skils",
+                  "text2sql",
+                  "vue3"
+                ]
               },
               "first_seen": "2026-08-28T23:11:52.717Z"
             }
@@ -112,12 +156,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Research workflow on Dify: cascaded multi-source search → outline → cited long-form report. Credited in Awesome-Dify-Workflow.",
+                "homepage": null,
                 "id": 932223285,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-18T20:06:46Z",
+                "open_issues": 3,
                 "owner": "AdamPlatin123",
                 "repo": "Open-Deep-Research-workflow-on-Dify",
-                "stars": 320
+                "stars": 320,
+                "topics": [
+                  "agent",
+                  "deep-research",
+                  "dify",
+                  "llm",
+                  "rag",
+                  "workflow"
+                ]
               },
               "first_seen": "2026-08-28T23:11:52.717Z"
             }
@@ -135,12 +191,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ModelScope: bring the notion of Model-as-a-Service to life.",
+                "homepage": "https://www.modelscope.cn/",
                 "id": 517552648,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T09:07:08Z",
+                "open_issues": 15,
                 "owner": "modelscope",
                 "repo": "modelscope",
-                "stars": 9116
+                "stars": 9116,
+                "topics": [
+                  "cv",
+                  "deep-learning",
+                  "machine-learning",
+                  "multi-modal",
+                  "nlp",
+                  "python",
+                  "science",
+                  "speech"
+                ]
               },
               "first_seen": "2026-08-28T23:11:52.717Z"
             }
@@ -158,12 +228,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A code executor for Dify that is compatible with the official sandbox API calls and dependency installation.",
+                "homepage": null,
                 "id": 891948724,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-04-28T09:00:31Z",
+                "open_issues": 5,
                 "owner": "svcvit",
                 "repo": "dify-sandbox-py",
-                "stars": 396
+                "stars": 396,
+                "topics": [
+                  "dify",
+                  "sandbox"
+                ]
               },
               "first_seen": "2026-08-28T23:11:52.717Z"
             }
@@ -181,12 +259,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://fixer.ofo.icu",
                 "id": 893015198,
                 "language": "Vue",
+                "license": "MIT",
                 "last_commit": "2024-11-24T02:18:52Z",
+                "open_issues": 0,
                 "owner": "stvlynn",
                 "repo": "langfixer",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:52.717Z"
             }
@@ -204,12 +287,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A code executor for Dify that is compatible with the official sandbox API calls and dependency installation.",
+                "homepage": null,
                 "id": 891948724,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-04-28T09:00:31Z",
+                "open_issues": 5,
                 "owner": "svcvit",
                 "repo": "dify-sandbox-py",
-                "stars": 396
+                "stars": 396,
+                "topics": [
+                  "dify",
+                  "sandbox"
+                ]
               },
               "first_seen": "2026-08-28T23:11:52.717Z"
             },
@@ -220,12 +311,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A code executor for Dify that is compatible with the official sandbox API calls and dependency installation.",
+                "homepage": null,
                 "id": 891948724,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-04-28T09:00:31Z",
+                "open_issues": 5,
                 "owner": "svcvit",
                 "repo": "dify-sandbox-py",
-                "stars": 396
+                "stars": 396,
+                "topics": [
+                  "dify",
+                  "sandbox"
+                ]
               },
               "first_seen": "2026-08-28T23:11:52.717Z"
             }
@@ -243,12 +342,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 799728414,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-04T06:14:56Z",
+                "open_issues": 27,
                 "owner": "andrewyng",
                 "repo": "translation-agent",
-                "stars": 5807
+                "stars": 5807,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:52.717Z"
             }
@@ -266,12 +370,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "dify DSL files collections",
+                "homepage": null,
                 "id": 815489582,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-24T23:53:58Z",
+                "open_issues": 0,
                 "owner": "Winson-030",
                 "repo": "dify-DSL",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:52.717Z"
             },
@@ -282,12 +391,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "dify DSL files collections",
+                "homepage": null,
                 "id": 815489582,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-24T23:53:58Z",
+                "open_issues": 0,
                 "owner": "Winson-030",
                 "repo": "dify-DSL",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:52.717Z"
             },
@@ -298,12 +412,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "dify workflow",
+                "homepage": null,
                 "id": 820466484,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-27T15:33:20Z",
+                "open_issues": 0,
                 "owner": "ghostviper",
                 "repo": "dify-workflow",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:52.717Z"
             },
@@ -314,12 +433,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "dify workflow",
+                "homepage": null,
                 "id": 820466484,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-27T15:33:20Z",
+                "open_issues": 0,
                 "owner": "ghostviper",
                 "repo": "dify-workflow",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:52.717Z"
             },
@@ -330,12 +454,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Dify workflow that generate a full course by custom.",
+                "homepage": null,
                 "id": 874066197,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-08-12T01:40:40Z",
+                "open_issues": 0,
                 "owner": "pekingmuge",
                 "repo": "dify_course",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:52.717Z"
             },
@@ -346,12 +475,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 822381090,
                 "language": "Python",
+                "license": "MIT-0",
                 "last_commit": "2026-06-06T02:31:12Z",
+                "open_issues": 14,
                 "owner": "aws-samples",
                 "repo": "dify-aws-tool",
-                "stars": 179
+                "stars": 179,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:52.717Z"
             },
@@ -362,12 +496,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 822381090,
                 "language": "Python",
+                "license": "MIT-0",
                 "last_commit": "2026-06-06T02:31:12Z",
+                "open_issues": 14,
                 "owner": "aws-samples",
                 "repo": "dify-aws-tool",
-                "stars": 179
+                "stars": 179,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:52.717Z"
             }
@@ -385,12 +524,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "与 https://github.com/tonori/mem0ai-api 配合使用的非官方的 mem0ai provider.",
+                "homepage": null,
                 "id": 832937089,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-07-25T11:17:42Z",
+                "open_issues": 3,
                 "owner": "chisaki-takahashi",
                 "repo": "dify-plugin-mem0ai",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:52.717Z"
             }
@@ -404,15 +548,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:11:52.717Z",
+    "last_updated": "2026-08-29T04:13:10.312Z",
     "original_repository_info": {
       "archived": false,
+      "description": "分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.",
+      "homepage": null,
       "id": 829257235,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-03-25T12:35:38Z",
+      "open_issues": 24,
       "owner": "svcvit",
       "repo": "Awesome-Dify-Workflow",
-      "stars": 10762
+      "stars": 10763,
+      "topics": []
     },
     "original_repository_sha": "e730ed3627e5fa56fc1668d995b83178b6b1181c",
     "enhanced_repository": "enhansome/enhansome-Awesome-Dify-Workflow",
