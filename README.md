@@ -205,7 +205,7 @@ sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，�
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
 | `春联生成器.yml`           | 春联生成工具，注意字体需要电脑有，可以按需修改字体。 ![](./snapshots/Xnip2025-01-21_09-21-11.jpg)                                                                                                                         | 微信群@Junjie.M |
 | `春联生成器 (“福”到了版本).yml` | ![](./snapshots/Xnip2025-01-21_09-22-59.jpg)                                                                                                                                                    | 微信群@Junjie.M |
-| `完蛋！我被LLM包围了！ .yml`   | 【完蛋！我被LLM包围了！】借鉴了：<https://github.com/modelscope/modelscope/tree/master/examples/apps/llm_riddles> ⭐ 9,117 \| 🐛 15 \| 🌐 Python \| 📅 2026-08-28  ![](./snapshots/Xnip2025-01-21_09-39-18.jpg) | 微信群@Junjie.M |
+| `完蛋！我被LLM包围了！ .yml`   | 【完蛋！我被LLM包围了！】借鉴了：<https://github.com/modelscope/modelscope/tree/master/examples/apps/llm_riddles> ⭐ 9,121 \| 🐛 16 \| 🌐 Python \| 📅 2026-08-28  ![](./snapshots/Xnip2025-01-21_09-39-18.jpg) | 微信群@Junjie.M |
 
 ## 2024-12-05更新
 
@@ -259,7 +259,7 @@ sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，�
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
 | `中译英.yml`                    | 通过宝玉的 Prompt，直译->反思->意译，将中文翻译成高质量的英文。 ![](./snapshots/Xnip2024-07-24_13-04-11.jpg)                                             | 暂无                                                                                                                 |
 | `DuckDuckGo 翻译+LLM 二次翻译.yml` | 与三步翻译类似，但是把第一步的直译变成传统翻译引擎翻译，节省 Token，提高翻译效率，同时提高翻译质量。 ![](./snapshots/Xnip2024-07-16_13-42-06.jpg)                             | 暂无                                                                                                                 |
-| `translation_workflow.yml`   | 使用吴恩达提出 Agentic Workflow 制作的翻译工具，录入`输入语言`、`目标语言`、`国家`、`原始文本` 4 个参数，提供更细致的翻译结果 ![snap](./snapshots/Xnip2024-07-16_16-58-05.jpg) | [translation-agent](https://github.com/andrewyng/translation-agent) ⭐ 5,807 \| 🐛 27 \| 🌐 Python \| 📅 2024-08-04 |
+| `translation_workflow.yml`   | 使用吴恩达提出 Agentic Workflow 制作的翻译工具，录入`输入语言`、`目标语言`、`国家`、`原始文本` 4 个参数，提供更细致的翻译结果 ![snap](./snapshots/Xnip2024-07-16_16-58-05.jpg) | [translation-agent](https://github.com/andrewyng/translation-agent) ⭐ 5,809 \| 🐛 27 \| 🌐 Python \| 📅 2024-08-04 |
 | `宝玉的英译中优化版.yml`              | 宝玉的科技文章翻译优化版本，主要优化了提示词和 xml 标签 ![snap](./snapshots/Xnip2024-08-01_13-47-25.jpg)                                                | [翻译 GPT 的提示词更新和优化](https://baoyu.io/blog/prompt-engineering/translator-gpt-prompt-v2-1-improvement)                |
 | `全书翻译.yml`                   | DIFY 官方示例，切分长文本，再迭代器内翻译 ![snap](./snapshots/Xnip2024-10-30_18-02-24.jpg)                                                       | DIFY 官方探索内容                                                                                                        |
 
@@ -277,8 +277,8 @@ sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，�
 | `Jina Reader Jinja.yml`        | 一个基于 TavilySearch 和 Jina 的问答流程  ![](./snapshots/Xnip2024-07-29_14-43-54.jpg)                                                         | 🔥Dify Workflow-Agent 设计交流群分享                                                                                               |
 | `llm2o1.cn.yml`                | 任务拆解→提取步骤→迭代步骤执行→归纳总结→输出结果 ![](./snapshots/Xnip2024-09-30_09-44-00.jpg)                                                              | [@okooo5km](https://x.com/okooo5km/status/1838801763778072862)                                                              |
 | `dify_course_demo.yml`         | 自动化生成全套教程。 ![](./snapshots/GZvTSh3aYAEMAQ5.jpeg)                                                                                     | [dify\_course](https://github.com/pekingmuge/dify_course) ⭐ 37 \| 🐛 0 \| 📅 2025-08-12                                     |
-| `simple-kimi.yml`              | 简易自制 Kimi ![](./snapshots/Xnip2024-10-31_17-33-34.jpg)                                                                               | [aws-samples](https://github.com/aws-samples/dify-aws-tool/tree/main/workflow) ⭐ 179 \| 🐛 14 \| 🌐 Python \| 📅 2026-06-06 |
-| `Claude3 Code Translation.yml` | 不同代码种类之间的翻译工作流 ![](./snapshots/Xnip2024-10-31_17-38-34.jpg)                                                                          | [aws-samples](https://github.com/aws-samples/dify-aws-tool/tree/main/workflow) ⭐ 179 \| 🐛 14 \| 🌐 Python \| 📅 2026-06-06 |
+| `simple-kimi.yml`              | 简易自制 Kimi ![](./snapshots/Xnip2024-10-31_17-33-34.jpg)                                                                               | [aws-samples](https://github.com/aws-samples/dify-aws-tool/tree/main/workflow) ⭐ 178 \| 🐛 14 \| 🌐 Python \| 📅 2026-06-06 |
+| `Claude3 Code Translation.yml` | 不同代码种类之间的翻译工作流 ![](./snapshots/Xnip2024-10-31_17-38-34.jpg)                                                                          | [aws-samples](https://github.com/aws-samples/dify-aws-tool/tree/main/workflow) ⭐ 178 \| 🐛 14 \| 🌐 Python \| 📅 2026-06-06 |
 
 ## 聊天机器人
 
@@ -312,4 +312,4 @@ sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
