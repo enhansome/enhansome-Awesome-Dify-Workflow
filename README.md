@@ -125,7 +125,7 @@ sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，�
 ![](./snapshots/Xnip2025-04-27_21-43-19.jpg)
 
 * [Artifacts](https://github.com/svcvit/dify-plugin-artifacts) ⭐ 98 | 🐛 17 | 🌐 HTML | 📅 2025-04-24 ：这是Extension，它借鉴了 Anthropic 的 Artifacts 功能，做HTML的渲染，你可以参考这份代码，做一个简单的用户交互界面。
-* [对话Agent](https://github.com/svcvit/dify-plugin-tod_agent) ⭐ 38 | 🐛 11 | 🌐 Python | 📅 2025-04-24 ：这是Agent strategy，Agent策略抽象了Dify的很多能力，可以有很多玩法，但是对开发者要求比较高，你需要有产品思维，还需要一定的开发能力。
+* [对话Agent](https://github.com/svcvit/dify-plugin-tod_agent) ⭐ 38 | 🐛 10 | 🌐 Python | 📅 2025-04-24 ：这是Agent strategy，Agent策略抽象了Dify的很多能力，可以有很多玩法，但是对开发者要求比较高，你需要有产品思维，还需要一定的开发能力。
 * [google翻译](https://github.com/svcvit/dify-plugin-google_translate) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2025-03-06：这是Tool，代码很少，看完之后可以理解DIFY插件的文件结构
 
 ## 模型
@@ -159,9 +159,9 @@ sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，�
 
 ## 2025-04-17更新
 
-| 文件          | 描述                                                                                                                                                                                                                                                                                          | 来源                                                                                                  |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| `sanic-web` | 这是一个使用DIFY作为服务层的数据库问答项目，项目有独立的web交互界面，请访问 <https://github.com/apconw/sanic-web> ⭐ 2,237 \| 🐛 17 \| 🌐 JavaScript \| 📅 2026-08-27 查看详情。项目完成度很高，按照文档一步步操作即可启动。使用ollama的qwen和deepseek模型，即可获得不错的效果。 ![](./snapshots/Xnip2025-04-17_10-25-14.jpg) ![](./snapshots/Xnip2025-04-17_10-24-49.jpg) | [sanic-web](https://github.com/apconw/sanic-web) ⭐ 2,237 \| 🐛 17 \| 🌐 JavaScript \| 📅 2026-08-27 |
+| 文件          | 描述                                                                                                                                                                                                                                                                                         | 来源                                                                                                 |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
+| `sanic-web` | 这是一个使用DIFY作为服务层的数据库问答项目，项目有独立的web交互界面，请访问 <https://github.com/apconw/sanic-web> ⭐ 2,238 \| 🐛 2 \| 🌐 JavaScript \| 📅 2026-08-30 查看详情。项目完成度很高，按照文档一步步操作即可启动。使用ollama的qwen和deepseek模型，即可获得不错的效果。 ![](./snapshots/Xnip2025-04-17_10-25-14.jpg) ![](./snapshots/Xnip2025-04-17_10-24-49.jpg) | [sanic-web](https://github.com/apconw/sanic-web) ⭐ 2,238 \| 🐛 2 \| 🌐 JavaScript \| 📅 2026-08-30 |
 
 ## 2025-04-16更新
 
@@ -205,7 +205,7 @@ sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，�
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
 | `春联生成器.yml`           | 春联生成工具，注意字体需要电脑有，可以按需修改字体。 ![](./snapshots/Xnip2025-01-21_09-21-11.jpg)                                                                                                                         | 微信群@Junjie.M |
 | `春联生成器 (“福”到了版本).yml` | ![](./snapshots/Xnip2025-01-21_09-22-59.jpg)                                                                                                                                                    | 微信群@Junjie.M |
-| `完蛋！我被LLM包围了！ .yml`   | 【完蛋！我被LLM包围了！】借鉴了：<https://github.com/modelscope/modelscope/tree/master/examples/apps/llm_riddles> ⭐ 9,121 \| 🐛 16 \| 🌐 Python \| 📅 2026-08-28  ![](./snapshots/Xnip2025-01-21_09-39-18.jpg) | 微信群@Junjie.M |
+| `完蛋！我被LLM包围了！ .yml`   | 【完蛋！我被LLM包围了！】借鉴了：<https://github.com/modelscope/modelscope/tree/master/examples/apps/llm_riddles> ⭐ 9,121 \| 🐛 16 \| 🌐 Python \| 📅 2026-08-31  ![](./snapshots/Xnip2025-01-21_09-39-18.jpg) | 微信群@Junjie.M |
 
 ## 2024-12-05更新
 
@@ -312,4 +312,4 @@ sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
