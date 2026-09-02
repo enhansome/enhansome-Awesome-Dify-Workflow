@@ -161,7 +161,7 @@ sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，�
 
 | 文件          | 描述                                                                                                                                                                                                                                                                                         | 来源                                                                                                 |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
-| `sanic-web` | 这是一个使用DIFY作为服务层的数据库问答项目，项目有独立的web交互界面，请访问 <https://github.com/apconw/sanic-web> ⭐ 2,240 \| 🐛 2 \| 🌐 JavaScript \| 📅 2026-08-30 查看详情。项目完成度很高，按照文档一步步操作即可启动。使用ollama的qwen和deepseek模型，即可获得不错的效果。 ![](./snapshots/Xnip2025-04-17_10-25-14.jpg) ![](./snapshots/Xnip2025-04-17_10-24-49.jpg) | [sanic-web](https://github.com/apconw/sanic-web) ⭐ 2,240 \| 🐛 2 \| 🌐 JavaScript \| 📅 2026-08-30 |
+| `sanic-web` | 这是一个使用DIFY作为服务层的数据库问答项目，项目有独立的web交互界面，请访问 <https://github.com/apconw/sanic-web> ⭐ 2,241 \| 🐛 2 \| 🌐 JavaScript \| 📅 2026-08-30 查看详情。项目完成度很高，按照文档一步步操作即可启动。使用ollama的qwen和deepseek模型，即可获得不错的效果。 ![](./snapshots/Xnip2025-04-17_10-25-14.jpg) ![](./snapshots/Xnip2025-04-17_10-24-49.jpg) | [sanic-web](https://github.com/apconw/sanic-web) ⭐ 2,241 \| 🐛 2 \| 🌐 JavaScript \| 📅 2026-08-30 |
 
 ## 2025-04-16更新
 
@@ -205,7 +205,7 @@ sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，�
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
 | `春联生成器.yml`           | 春联生成工具，注意字体需要电脑有，可以按需修改字体。 ![](./snapshots/Xnip2025-01-21_09-21-11.jpg)                                                                                                                         | 微信群@Junjie.M |
 | `春联生成器 (“福”到了版本).yml` | ![](./snapshots/Xnip2025-01-21_09-22-59.jpg)                                                                                                                                                    | 微信群@Junjie.M |
-| `完蛋！我被LLM包围了！ .yml`   | 【完蛋！我被LLM包围了！】借鉴了：<https://github.com/modelscope/modelscope/tree/master/examples/apps/llm_riddles> ⭐ 9,120 \| 🐛 16 \| 🌐 Python \| 📅 2026-09-01  ![](./snapshots/Xnip2025-01-21_09-39-18.jpg) | 微信群@Junjie.M |
+| `完蛋！我被LLM包围了！ .yml`   | 【完蛋！我被LLM包围了！】借鉴了：<https://github.com/modelscope/modelscope/tree/master/examples/apps/llm_riddles> ⭐ 9,121 \| 🐛 18 \| 🌐 Python \| 📅 2026-09-01  ![](./snapshots/Xnip2025-01-21_09-39-18.jpg) | 微信群@Junjie.M |
 
 ## 2024-12-05更新
 
@@ -312,4 +312,4 @@ sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
