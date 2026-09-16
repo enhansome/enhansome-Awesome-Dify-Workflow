@@ -205,7 +205,7 @@ sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，�
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
 | `春联生成器.yml`           | 春联生成工具，注意字体需要电脑有，可以按需修改字体。 ![](./snapshots/Xnip2025-01-21_09-21-11.jpg)                                                                                                                         | 微信群@Junjie.M |
 | `春联生成器 (“福”到了版本).yml` | ![](./snapshots/Xnip2025-01-21_09-22-59.jpg)                                                                                                                                                    | 微信群@Junjie.M |
-| `完蛋！我被LLM包围了！ .yml`   | 【完蛋！我被LLM包围了！】借鉴了：<https://github.com/modelscope/modelscope/tree/master/examples/apps/llm_riddles> ⭐ 9,136 \| 🐛 17 \| 🌐 Python \| 📅 2026-09-15  ![](./snapshots/Xnip2025-01-21_09-39-18.jpg) | 微信群@Junjie.M |
+| `完蛋！我被LLM包围了！ .yml`   | 【完蛋！我被LLM包围了！】借鉴了：<https://github.com/modelscope/modelscope/tree/master/examples/apps/llm_riddles> ⭐ 9,139 \| 🐛 16 \| 🌐 Python \| 📅 2026-09-16  ![](./snapshots/Xnip2025-01-21_09-39-18.jpg) | 微信群@Junjie.M |
 
 ## 2024-12-05更新
 
@@ -277,8 +277,8 @@ sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，�
 | `Jina Reader Jinja.yml`        | 一个基于 TavilySearch 和 Jina 的问答流程  ![](./snapshots/Xnip2024-07-29_14-43-54.jpg)                                                         | 🔥Dify Workflow-Agent 设计交流群分享                                                                                               |
 | `llm2o1.cn.yml`                | 任务拆解→提取步骤→迭代步骤执行→归纳总结→输出结果 ![](./snapshots/Xnip2024-09-30_09-44-00.jpg)                                                              | [@okooo5km](https://x.com/okooo5km/status/1838801763778072862)                                                              |
 | `dify_course_demo.yml`         | 自动化生成全套教程。 ![](./snapshots/GZvTSh3aYAEMAQ5.jpeg)                                                                                     | [dify\_course](https://github.com/pekingmuge/dify_course) ⭐ 37 \| 🐛 0 \| 📅 2025-08-12                                     |
-| `simple-kimi.yml`              | 简易自制 Kimi ![](./snapshots/Xnip2024-10-31_17-33-34.jpg)                                                                               | [aws-samples](https://github.com/aws-samples/dify-aws-tool/tree/main/workflow) ⭐ 178 \| 🐛 14 \| 🌐 Python \| 📅 2026-06-06 |
-| `Claude3 Code Translation.yml` | 不同代码种类之间的翻译工作流 ![](./snapshots/Xnip2024-10-31_17-38-34.jpg)                                                                          | [aws-samples](https://github.com/aws-samples/dify-aws-tool/tree/main/workflow) ⭐ 178 \| 🐛 14 \| 🌐 Python \| 📅 2026-06-06 |
+| `simple-kimi.yml`              | 简易自制 Kimi ![](./snapshots/Xnip2024-10-31_17-33-34.jpg)                                                                               | [aws-samples](https://github.com/aws-samples/dify-aws-tool/tree/main/workflow) ⭐ 179 \| 🐛 14 \| 🌐 Python \| 📅 2026-06-06 |
+| `Claude3 Code Translation.yml` | 不同代码种类之间的翻译工作流 ![](./snapshots/Xnip2024-10-31_17-38-34.jpg)                                                                          | [aws-samples](https://github.com/aws-samples/dify-aws-tool/tree/main/workflow) ⭐ 179 \| 🐛 14 \| 🌐 Python \| 📅 2026-06-06 |
 
 ## 聊天机器人
 
@@ -312,4 +312,4 @@ sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
