@@ -351,7 +351,7 @@
                 "open_issues": 28,
                 "owner": "andrewyng",
                 "repo": "translation-agent",
-                "stars": 5816,
+                "stars": 5817,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:52.717Z"
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T17:57:08.964Z",
+    "last_updated": "2026-09-25T18:04:11.015Z",
     "original_repository_info": {
       "archived": false,
       "description": "分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.",
@@ -560,7 +560,7 @@
       "open_issues": 25,
       "owner": "svcvit",
       "repo": "Awesome-Dify-Workflow",
-      "stars": 10772,
+      "stars": 10774,
       "topics": []
     },
     "original_repository_sha": "e730ed3627e5fa56fc1668d995b83178b6b1181c",
