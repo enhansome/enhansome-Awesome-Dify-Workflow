@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T18:04:11.015Z",
+    "last_updated": "2026-09-26T17:22:45.041Z",
     "original_repository_info": {
       "archived": false,
       "description": "分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.",
@@ -560,7 +560,7 @@
       "open_issues": 25,
       "owner": "svcvit",
       "repo": "Awesome-Dify-Workflow",
-      "stars": 10774,
+      "stars": 10775,
       "topics": []
     },
     "original_repository_sha": "e730ed3627e5fa56fc1668d995b83178b6b1181c",
