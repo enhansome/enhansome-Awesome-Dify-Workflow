@@ -114,11 +114,11 @@ A：执行下面的指令：docker exec -it docker-api-1 flask reset-password
 
 ## SANDBOX
 
-sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，例如`error: operation not permitted` ，你可以尝试使用我开发的另外一个简单版[dify-sandbox-py](https://github.com/svcvit/dify-sandbox-py) ⭐ 396 | 🐛 5 | 🌐 Python | 📅 2025-04-28，这些依赖已经测试可以使用。
+sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，例如`error: operation not permitted` ，你可以尝试使用我开发的另外一个简单版[dify-sandbox-py](https://github.com/svcvit/dify-sandbox-py) ⭐ 395 | 🐛 5 | 🌐 Python | 📅 2025-04-28，这些依赖已经测试可以使用。
 
 ## DIFY 1.0 插件
 
-插件功能是DIFY 1.0最大的更新，[dify\_plugin\_collection](https://github.com/svcvit/dify_plugin_collection) ⭐ 334 | 🐛 3 | 📅 2025-06-07 仓库存放着 DIFY 的[官方市场](https://marketplace.dify.ai/) 插件安装包，方便批量下载，不定期更新。
+插件功能是DIFY 1.0最大的更新，[dify\_plugin\_collection](https://github.com/svcvit/dify_plugin_collection) ⭐ 333 | 🐛 3 | 📅 2025-06-07 仓库存放着 DIFY 的[官方市场](https://marketplace.dify.ai/) 插件安装包，方便批量下载，不定期更新。
 
 如果你希望 **开发插件**，我做了4款插件，都已上架插件商店。代码都已开源，包含Agent strategy，Tool，Extension 希望可以给你参考。
 
@@ -161,7 +161,7 @@ sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，�
 
 | 文件          | 描述                                                                                                                                                                                                                                                                                         | 来源                                                                                                 |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
-| `sanic-web` | 这是一个使用DIFY作为服务层的数据库问答项目，项目有独立的web交互界面，请访问 <https://github.com/apconw/sanic-web> ⭐ 2,252 \| 🐛 2 \| 🌐 JavaScript \| 📅 2026-08-30 查看详情。项目完成度很高，按照文档一步步操作即可启动。使用ollama的qwen和deepseek模型，即可获得不错的效果。 ![](./snapshots/Xnip2025-04-17_10-25-14.jpg) ![](./snapshots/Xnip2025-04-17_10-24-49.jpg) | [sanic-web](https://github.com/apconw/sanic-web) ⭐ 2,252 \| 🐛 2 \| 🌐 JavaScript \| 📅 2026-08-30 |
+| `sanic-web` | 这是一个使用DIFY作为服务层的数据库问答项目，项目有独立的web交互界面，请访问 <https://github.com/apconw/sanic-web> ⭐ 2,251 \| 🐛 2 \| 🌐 JavaScript \| 📅 2026-08-30 查看详情。项目完成度很高，按照文档一步步操作即可启动。使用ollama的qwen和deepseek模型，即可获得不错的效果。 ![](./snapshots/Xnip2025-04-17_10-25-14.jpg) ![](./snapshots/Xnip2025-04-17_10-24-49.jpg) | [sanic-web](https://github.com/apconw/sanic-web) ⭐ 2,251 \| 🐛 2 \| 🌐 JavaScript \| 📅 2026-08-30 |
 
 ## 2025-04-16更新
 
@@ -185,7 +185,7 @@ sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，�
 
 | 文件                             | 描述                                                                   | 来源                                                                                                                    |
 | ------------------------------ | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| `Deep Researcher On Dify .yml` | Deep Researcher 工作流复现方案 ![](./snapshots/Xnip2025-02-24_10-12-56.jpg) | [@AdamPlatin123](https://github.com/AdamPlatin123/Open-Deep-Research-workflow-on-Dify) ⭐ 324 \| 🐛 3 \| 📅 2026-08-18 |
+| `Deep Researcher On Dify .yml` | Deep Researcher 工作流复现方案 ![](./snapshots/Xnip2025-02-24_10-12-56.jpg) | [@AdamPlatin123](https://github.com/AdamPlatin123/Open-Deep-Research-workflow-on-Dify) ⭐ 323 \| 🐛 3 \| 📅 2026-08-18 |
 
 ## 2025-02-17更新
 
@@ -211,7 +211,7 @@ sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，�
 
 | 文件               | 描述                                                                                                                                                                                                                                                                | 来源                                                                           |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| `File_read.yml`  | 使用sandbox读取文件并解析，需要使用[dify-sandbox-py](https://github.com/svcvit/dify-sandbox-py) ⭐ 396 \| 🐛 5 \| 🌐 Python \| 📅 2025-04-28，挂在上传目录，这是一个pandas读取csv的示例，具体方法参考右侧来源链接 ![](./snapshots/Xnip2024-12-05_09-26-33.jpg)    ![](./snapshots/Xnip2024-12-05_09-22-43.jpg) | [@svcvit](https://blog.vcvit.me/2024/12/05/use-dify-sandbox-to-parse-files/) |
+| `File_read.yml`  | 使用sandbox读取文件并解析，需要使用[dify-sandbox-py](https://github.com/svcvit/dify-sandbox-py) ⭐ 395 \| 🐛 5 \| 🌐 Python \| 📅 2025-04-28，挂在上传目录，这是一个pandas读取csv的示例，具体方法参考右侧来源链接 ![](./snapshots/Xnip2024-12-05_09-26-33.jpg)    ![](./snapshots/Xnip2024-12-05_09-22-43.jpg) | [@svcvit](https://blog.vcvit.me/2024/12/05/use-dify-sandbox-to-parse-files/) |
 | `runLLMCode.yml` | 使用LLM生成的Code，再通过sandbox去执行。因为code节点无法直接引用LLM的代码，所以通过HTTP请求的方式执行，这里有一个分析csv的示例。 ![](./snapshots/Xnip2024-12-05_10-16-16.jpg)   ![](./snapshots/Xnip2024-12-05_10-16-25.jpg)                                                                                        | [@svcvit](https://vcvit.me/)                                                 |
 | `数据分析.7z`        | 数据分析的示例，可以根据需求查询数据库，生成对应的解读和图表。示例中包括流程文件和flask的服务。 ![](./snapshots/Xnip2024-12-05_11-10-39.jpg)   ![](./snapshots/Xnip2024-12-05_11-12-55.jpg)                                                                                                                    | 微信群：简单&平凡@                                                                   |
 
@@ -225,8 +225,8 @@ sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，�
 
 | 文件               | 描述                                                                                                                                                                                                                                                                                                                                                                | 来源                           |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| `matplotlib.yml` | 使用matplotlib画图，将图片输出为base64，再通过回复渲染图片。注意，官方sandbox权限比较复杂，安装完matplotlib也无法使用，请使用[dify-sandbox-py](https://github.com/svcvit/dify-sandbox-py) ⭐ 396 \| 🐛 5 \| 🌐 Python \| 📅 2025-04-28 。如果使用dify1.0以上版本无法渲染图片，请查看 <https://github.com/svcvit/dify-sandbox-py/issues/11> ⭐ 396 \| 🐛 5 \| 🌐 Python \| 📅 2025-04-28 ![](./snapshots/Xnip2024-11-21_09-35-09.jpg) | [@svcvit](https://vcvit.me/) |
-| `jieba.yml`      | jieba 分词示例，请使用[dify-sandbox-py](https://github.com/svcvit/dify-sandbox-py) ⭐ 396 \| 🐛 5 \| 🌐 Python \| 📅 2025-04-28  ![](./snapshots/Xnip2024-11-22_13-44-07.jpg)                                                                                                                                                                                              | [@svcvit](https://vcvit.me/) |
+| `matplotlib.yml` | 使用matplotlib画图，将图片输出为base64，再通过回复渲染图片。注意，官方sandbox权限比较复杂，安装完matplotlib也无法使用，请使用[dify-sandbox-py](https://github.com/svcvit/dify-sandbox-py) ⭐ 395 \| 🐛 5 \| 🌐 Python \| 📅 2025-04-28 。如果使用dify1.0以上版本无法渲染图片，请查看 <https://github.com/svcvit/dify-sandbox-py/issues/11> ⭐ 395 \| 🐛 5 \| 🌐 Python \| 📅 2025-04-28 ![](./snapshots/Xnip2024-11-21_09-35-09.jpg) | [@svcvit](https://vcvit.me/) |
+| `jieba.yml`      | jieba 分词示例，请使用[dify-sandbox-py](https://github.com/svcvit/dify-sandbox-py) ⭐ 395 \| 🐛 5 \| 🌐 Python \| 📅 2025-04-28  ![](./snapshots/Xnip2024-11-22_13-44-07.jpg)                                                                                                                                                                                              | [@svcvit](https://vcvit.me/) |
 
 ## 2024-11-20更新
 
@@ -259,7 +259,7 @@ sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，�
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
 | `中译英.yml`                    | 通过宝玉的 Prompt，直译->反思->意译，将中文翻译成高质量的英文。 ![](./snapshots/Xnip2024-07-24_13-04-11.jpg)                                             | 暂无                                                                                                                 |
 | `DuckDuckGo 翻译+LLM 二次翻译.yml` | 与三步翻译类似，但是把第一步的直译变成传统翻译引擎翻译，节省 Token，提高翻译效率，同时提高翻译质量。 ![](./snapshots/Xnip2024-07-16_13-42-06.jpg)                             | 暂无                                                                                                                 |
-| `translation_workflow.yml`   | 使用吴恩达提出 Agentic Workflow 制作的翻译工具，录入`输入语言`、`目标语言`、`国家`、`原始文本` 4 个参数，提供更细致的翻译结果 ![snap](./snapshots/Xnip2024-07-16_16-58-05.jpg) | [translation-agent](https://github.com/andrewyng/translation-agent) ⭐ 5,817 \| 🐛 28 \| 🌐 Python \| 📅 2024-08-04 |
+| `translation_workflow.yml`   | 使用吴恩达提出 Agentic Workflow 制作的翻译工具，录入`输入语言`、`目标语言`、`国家`、`原始文本` 4 个参数，提供更细致的翻译结果 ![snap](./snapshots/Xnip2024-07-16_16-58-05.jpg) | [translation-agent](https://github.com/andrewyng/translation-agent) ⭐ 5,819 \| 🐛 28 \| 🌐 Python \| 📅 2024-08-04 |
 | `宝玉的英译中优化版.yml`              | 宝玉的科技文章翻译优化版本，主要优化了提示词和 xml 标签 ![snap](./snapshots/Xnip2024-08-01_13-47-25.jpg)                                                | [翻译 GPT 的提示词更新和优化](https://baoyu.io/blog/prompt-engineering/translator-gpt-prompt-v2-1-improvement)                |
 | `全书翻译.yml`                   | DIFY 官方示例，切分长文本，再迭代器内翻译 ![snap](./snapshots/Xnip2024-10-30_18-02-24.jpg)                                                       | DIFY 官方探索内容                                                                                                        |
 
@@ -270,15 +270,15 @@ sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，�
 | `SEO Slug Generator.yml`       | 给自己的博文生成 url slug，参考来源于宝玉的 X ![](./snapshots/Xnip2024-07-24_13-06-35.jpg)                                                            | [twitter](https://x.com/dotey/status/1801280536125608265)                                                                   |
 | `Document_chat_template.yml`   | 一个通过知识库聊天的模版 ![](./snapshots/Xnip2024-07-24_13-08-49.jpg)                                                                            | [Winson-030](https://github.com/Winson-030/dify-DSL) ⭐ 34 \| 🐛 0 \| 📅 2024-07-24                                          |
 | `搜索大师.yml`                     | 通过 SearXNG 进行搜索，再通过 jina 获取搜索内容 ![](./snapshots/Xnip2024-07-24_13-07-55.jpg)                                                         | [Winson-030](https://github.com/Winson-030/dify-DSL) ⭐ 34 \| 🐛 0 \| 📅 2024-07-24                                          |
-| `标题党创作.yml`                    | 一位爆款网文作家  ![](./snapshots/Xnip2024-10-31_17-45-53.jpg)                                                                               | [ghostviper](https://github.com/ghostviper/dify-workflow) ⭐ 24 \| 🐛 0 \| 📅 2024-06-27                                     |
-| `文章仿写-单图_多图自动搭配.yml`           | 文章仿写   ![](./snapshots/Xnip2024-10-31_17-46-30.jpg)                                                                                  | [ghostviper](https://github.com/ghostviper/dify-workflow) ⭐ 24 \| 🐛 0 \| 📅 2024-06-27                                     |
+| `标题党创作.yml`                    | 一位爆款网文作家  ![](./snapshots/Xnip2024-10-31_17-45-53.jpg)                                                                               | [ghostviper](https://github.com/ghostviper/dify-workflow) ⭐ 23 \| 🐛 0 \| 📅 2024-06-27                                     |
+| `文章仿写-单图_多图自动搭配.yml`           | 文章仿写   ![](./snapshots/Xnip2024-10-31_17-46-30.jpg)                                                                                  | [ghostviper](https://github.com/ghostviper/dify-workflow) ⭐ 23 \| 🐛 0 \| 📅 2024-06-27                                     |
 | `Text to Card Iteration.yml`   | 自动生成小红书这种卡片。                                                                                                                         | 🔥Dify Workflow-Agent 设计交流 @Arthur                                                                                          |
 | `Dify 运营一条龙.yml`               | 小红书、抖音、微博、B 站一条龙运营。（2024/11/21更新，主流程已经不能用了，因为图片生成那个服务问题很多，而且限制了分辨率，导致生成图完全不对了，全当看个思路。）  ![](./snapshots/Xnip2024-07-24_16-34-29.jpg) | [Dify 一键生成多尺寸 Cover 与全平台文案](https://www.youtube.com/watch?v=kCrQp8YZTsQ)                                                    |
 | `Jina Reader Jinja.yml`        | 一个基于 TavilySearch 和 Jina 的问答流程  ![](./snapshots/Xnip2024-07-29_14-43-54.jpg)                                                         | 🔥Dify Workflow-Agent 设计交流群分享                                                                                               |
 | `llm2o1.cn.yml`                | 任务拆解→提取步骤→迭代步骤执行→归纳总结→输出结果 ![](./snapshots/Xnip2024-09-30_09-44-00.jpg)                                                              | [@okooo5km](https://x.com/okooo5km/status/1838801763778072862)                                                              |
-| `dify_course_demo.yml`         | 自动化生成全套教程。 ![](./snapshots/GZvTSh3aYAEMAQ5.jpeg)                                                                                     | [dify\_course](https://github.com/pekingmuge/dify_course) ⭐ 37 \| 🐛 0 \| 📅 2025-08-12                                     |
-| `simple-kimi.yml`              | 简易自制 Kimi ![](./snapshots/Xnip2024-10-31_17-33-34.jpg)                                                                               | [aws-samples](https://github.com/aws-samples/dify-aws-tool/tree/main/workflow) ⭐ 179 \| 🐛 15 \| 🌐 Python \| 📅 2026-06-06 |
-| `Claude3 Code Translation.yml` | 不同代码种类之间的翻译工作流 ![](./snapshots/Xnip2024-10-31_17-38-34.jpg)                                                                          | [aws-samples](https://github.com/aws-samples/dify-aws-tool/tree/main/workflow) ⭐ 179 \| 🐛 15 \| 🌐 Python \| 📅 2026-06-06 |
+| `dify_course_demo.yml`         | 自动化生成全套教程。 ![](./snapshots/GZvTSh3aYAEMAQ5.jpeg)                                                                                     | [dify\_course](https://github.com/pekingmuge/dify_course) ⭐ 36 \| 🐛 0 \| 📅 2025-08-12                                     |
+| `simple-kimi.yml`              | 简易自制 Kimi ![](./snapshots/Xnip2024-10-31_17-33-34.jpg)                                                                               | [aws-samples](https://github.com/aws-samples/dify-aws-tool/tree/main/workflow) ⭐ 178 \| 🐛 15 \| 🌐 Python \| 📅 2026-06-06 |
+| `Claude3 Code Translation.yml` | 不同代码种类之间的翻译工作流 ![](./snapshots/Xnip2024-10-31_17-38-34.jpg)                                                                          | [aws-samples](https://github.com/aws-samples/dify-aws-tool/tree/main/workflow) ⭐ 178 \| 🐛 15 \| 🌐 Python \| 📅 2026-06-06 |
 
 ## 聊天机器人
 
@@ -312,4 +312,4 @@ sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._

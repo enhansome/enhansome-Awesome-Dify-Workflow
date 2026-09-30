@@ -118,7 +118,7 @@
                 "open_issues": 2,
                 "owner": "apconw",
                 "repo": "Aix-DB",
-                "stars": 2252,
+                "stars": 2251,
                 "topics": [
                   "bigdata",
                   "cli",
@@ -165,7 +165,7 @@
                 "open_issues": 3,
                 "owner": "AdamPlatin123",
                 "repo": "Open-Deep-Research-workflow-on-Dify",
-                "stars": 324,
+                "stars": 323,
                 "topics": [
                   "agent",
                   "deep-research",
@@ -237,7 +237,7 @@
                 "open_issues": 5,
                 "owner": "svcvit",
                 "repo": "dify-sandbox-py",
-                "stars": 396,
+                "stars": 395,
                 "topics": [
                   "dify",
                   "sandbox"
@@ -296,7 +296,7 @@
                 "open_issues": 5,
                 "owner": "svcvit",
                 "repo": "dify-sandbox-py",
-                "stars": 396,
+                "stars": 395,
                 "topics": [
                   "dify",
                   "sandbox"
@@ -320,7 +320,7 @@
                 "open_issues": 5,
                 "owner": "svcvit",
                 "repo": "dify-sandbox-py",
-                "stars": 396,
+                "stars": 395,
                 "topics": [
                   "dify",
                   "sandbox"
@@ -351,7 +351,7 @@
                 "open_issues": 28,
                 "owner": "andrewyng",
                 "repo": "translation-agent",
-                "stars": 5817,
+                "stars": 5819,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:52.717Z"
@@ -421,7 +421,7 @@
                 "open_issues": 0,
                 "owner": "ghostviper",
                 "repo": "dify-workflow",
-                "stars": 24,
+                "stars": 23,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:52.717Z"
@@ -442,7 +442,7 @@
                 "open_issues": 0,
                 "owner": "ghostviper",
                 "repo": "dify-workflow",
-                "stars": 24,
+                "stars": 23,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:52.717Z"
@@ -463,7 +463,7 @@
                 "open_issues": 0,
                 "owner": "pekingmuge",
                 "repo": "dify_course",
-                "stars": 37,
+                "stars": 36,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:52.717Z"
@@ -484,7 +484,7 @@
                 "open_issues": 15,
                 "owner": "aws-samples",
                 "repo": "dify-aws-tool",
-                "stars": 179,
+                "stars": 178,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:52.717Z"
@@ -505,7 +505,7 @@
                 "open_issues": 15,
                 "owner": "aws-samples",
                 "repo": "dify-aws-tool",
-                "stars": 179,
+                "stars": 178,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:52.717Z"
@@ -533,7 +533,7 @@
                 "open_issues": 3,
                 "owner": "chisaki-takahashi",
                 "repo": "dify-plugin-mem0ai",
-                "stars": 50,
+                "stars": 49,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:52.717Z"
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T18:51:52.836Z",
+    "last_updated": "2026-09-30T18:33:38.946Z",
     "original_repository_info": {
       "archived": false,
       "description": "分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.",
@@ -557,10 +557,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-03-25T12:35:38Z",
-      "open_issues": 25,
+      "open_issues": 26,
       "owner": "svcvit",
       "repo": "Awesome-Dify-Workflow",
-      "stars": 10775,
+      "stars": 10776,
       "topics": []
     },
     "original_repository_sha": "e730ed3627e5fa56fc1668d995b83178b6b1181c",
