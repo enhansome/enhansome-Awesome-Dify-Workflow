@@ -118,7 +118,7 @@
                 "open_issues": 3,
                 "owner": "apconw",
                 "repo": "Aix-DB",
-                "stars": 2253,
+                "stars": 2254,
                 "topics": [
                   "bigdata",
                   "cli",
@@ -200,7 +200,7 @@
                 "open_issues": 17,
                 "owner": "modelscope",
                 "repo": "modelscope",
-                "stars": 9165,
+                "stars": 9162,
                 "topics": [
                   "cv",
                   "deep-learning",
@@ -351,7 +351,7 @@
                 "open_issues": 28,
                 "owner": "andrewyng",
                 "repo": "translation-agent",
-                "stars": 5819,
+                "stars": 5820,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:52.717Z"
@@ -421,7 +421,7 @@
                 "open_issues": 0,
                 "owner": "ghostviper",
                 "repo": "dify-workflow",
-                "stars": 23,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:52.717Z"
@@ -442,7 +442,7 @@
                 "open_issues": 0,
                 "owner": "ghostviper",
                 "repo": "dify-workflow",
-                "stars": 23,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:52.717Z"
@@ -463,7 +463,7 @@
                 "open_issues": 0,
                 "owner": "pekingmuge",
                 "repo": "dify_course",
-                "stars": 36,
+                "stars": 37,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:52.717Z"
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T19:01:34.516Z",
+    "last_updated": "2026-10-02T18:41:17.367Z",
     "original_repository_info": {
       "archived": false,
       "description": "分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.",
