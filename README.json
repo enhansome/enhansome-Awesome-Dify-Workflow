@@ -200,7 +200,7 @@
                 "open_issues": 17,
                 "owner": "modelscope",
                 "repo": "modelscope",
-                "stars": 9162,
+                "stars": 9163,
                 "topics": [
                   "cv",
                   "deep-learning",
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:26:41.059Z",
+    "last_updated": "2026-10-03T17:36:53.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.",
@@ -560,7 +560,7 @@
       "open_issues": 26,
       "owner": "svcvit",
       "repo": "Awesome-Dify-Workflow",
-      "stars": 10777,
+      "stars": 10779,
       "topics": []
     },
     "original_repository_sha": "e730ed3627e5fa56fc1668d995b83178b6b1181c",
