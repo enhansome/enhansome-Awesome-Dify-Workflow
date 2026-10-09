@@ -19,7 +19,7 @@
             "open_issues": 17,
             "owner": "svcvit",
             "repo": "dify-plugin-artifacts",
-            "stars": 99,
+            "stars": 98,
             "topics": []
           },
           "first_seen": "2026-08-28T23:11:52.717Z"
@@ -90,7 +90,7 @@
                 "open_issues": 17,
                 "owner": "svcvit",
                 "repo": "dify-plugin-artifacts",
-                "stars": 99,
+                "stars": 98,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:52.717Z"
@@ -196,11 +196,11 @@
                 "id": 517552648,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T06:59:40Z",
-                "open_issues": 15,
+                "last_commit": "2026-10-09T09:08:00Z",
+                "open_issues": 14,
                 "owner": "modelscope",
                 "repo": "modelscope",
-                "stars": 9163,
+                "stars": 9162,
                 "topics": [
                   "cv",
                   "deep-learning",
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T19:25:28.568Z",
+    "last_updated": "2026-10-09T18:59:44.263Z",
     "original_repository_info": {
       "archived": false,
       "description": "分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.",
