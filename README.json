@@ -197,10 +197,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-11T17:27:13Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "modelscope",
                 "repo": "modelscope",
-                "stars": 9178,
+                "stars": 9181,
                 "topics": [
                   "cv",
                   "deep-learning",
@@ -234,7 +234,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-04-28T09:00:31Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "svcvit",
                 "repo": "dify-sandbox-py",
                 "stars": 395,
@@ -293,7 +293,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-04-28T09:00:31Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "svcvit",
                 "repo": "dify-sandbox-py",
                 "stars": 395,
@@ -317,7 +317,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-04-28T09:00:31Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "svcvit",
                 "repo": "dify-sandbox-py",
                 "stars": 395,
@@ -351,7 +351,7 @@
                 "open_issues": 28,
                 "owner": "andrewyng",
                 "repo": "translation-agent",
-                "stars": 5817,
+                "stars": 5816,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:52.717Z"
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T17:41:21.998Z",
+    "last_updated": "2026-10-17T16:38:58.128Z",
     "original_repository_info": {
       "archived": false,
       "description": "分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.",
@@ -560,7 +560,7 @@
       "open_issues": 26,
       "owner": "svcvit",
       "repo": "Awesome-Dify-Workflow",
-      "stars": 10787,
+      "stars": 10789,
       "topics": []
     },
     "original_repository_sha": "e730ed3627e5fa56fc1668d995b83178b6b1181c",
