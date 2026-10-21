@@ -114,7 +114,7 @@ A：执行下面的指令：docker exec -it docker-api-1 flask reset-password
 
 ## SANDBOX
 
-sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，例如`error: operation not permitted` ，你可以尝试使用我开发的另外一个简单版[dify-sandbox-py](https://github.com/svcvit/dify-sandbox-py) ⭐ 395 | 🐛 6 | 🌐 Python | 📅 2025-04-28，这些依赖已经测试可以使用。
+sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，例如`error: operation not permitted` ，你可以尝试使用我开发的另外一个简单版[dify-sandbox-py](https://github.com/svcvit/dify-sandbox-py) ⭐ 394 | 🐛 6 | 🌐 Python | 📅 2025-04-28，这些依赖已经测试可以使用。
 
 ## DIFY 1.0 插件
 
@@ -125,7 +125,7 @@ sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，�
 ![](./snapshots/Xnip2025-04-27_21-43-19.jpg)
 
 * [Artifacts](https://github.com/svcvit/dify-plugin-artifacts) ⭐ 98 | 🐛 17 | 🌐 HTML | 📅 2025-04-24 ：这是Extension，它借鉴了 Anthropic 的 Artifacts 功能，做HTML的渲染，你可以参考这份代码，做一个简单的用户交互界面。
-* [对话Agent](https://github.com/svcvit/dify-plugin-tod_agent) ⭐ 38 | 🐛 10 | 🌐 Python | 📅 2025-04-24 ：这是Agent strategy，Agent策略抽象了Dify的很多能力，可以有很多玩法，但是对开发者要求比较高，你需要有产品思维，还需要一定的开发能力。
+* [对话Agent](https://github.com/svcvit/dify-plugin-tod_agent) ⭐ 38 | 🐛 11 | 🌐 Python | 📅 2025-04-24 ：这是Agent strategy，Agent策略抽象了Dify的很多能力，可以有很多玩法，但是对开发者要求比较高，你需要有产品思维，还需要一定的开发能力。
 * [google翻译](https://github.com/svcvit/dify-plugin-google_translate) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2025-03-06：这是Tool，代码很少，看完之后可以理解DIFY插件的文件结构
 
 ## 模型
@@ -161,7 +161,7 @@ sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，�
 
 | 文件          | 描述                                                                                                                                                                                                                                                                                         | 来源                                                                                                 |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
-| `sanic-web` | 这是一个使用DIFY作为服务层的数据库问答项目，项目有独立的web交互界面，请访问 <https://github.com/apconw/sanic-web> ⭐ 2,254 \| 🐛 3 \| 🌐 JavaScript \| 📅 2026-10-10 查看详情。项目完成度很高，按照文档一步步操作即可启动。使用ollama的qwen和deepseek模型，即可获得不错的效果。 ![](./snapshots/Xnip2025-04-17_10-25-14.jpg) ![](./snapshots/Xnip2025-04-17_10-24-49.jpg) | [sanic-web](https://github.com/apconw/sanic-web) ⭐ 2,254 \| 🐛 3 \| 🌐 JavaScript \| 📅 2026-10-10 |
+| `sanic-web` | 这是一个使用DIFY作为服务层的数据库问答项目，项目有独立的web交互界面，请访问 <https://github.com/apconw/sanic-web> ⭐ 2,255 \| 🐛 3 \| 🌐 JavaScript \| 📅 2026-10-10 查看详情。项目完成度很高，按照文档一步步操作即可启动。使用ollama的qwen和deepseek模型，即可获得不错的效果。 ![](./snapshots/Xnip2025-04-17_10-25-14.jpg) ![](./snapshots/Xnip2025-04-17_10-24-49.jpg) | [sanic-web](https://github.com/apconw/sanic-web) ⭐ 2,255 \| 🐛 3 \| 🌐 JavaScript \| 📅 2026-10-10 |
 
 ## 2025-04-16更新
 
@@ -211,7 +211,7 @@ sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，�
 
 | 文件               | 描述                                                                                                                                                                                                                                                                | 来源                                                                           |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| `File_read.yml`  | 使用sandbox读取文件并解析，需要使用[dify-sandbox-py](https://github.com/svcvit/dify-sandbox-py) ⭐ 395 \| 🐛 6 \| 🌐 Python \| 📅 2025-04-28，挂在上传目录，这是一个pandas读取csv的示例，具体方法参考右侧来源链接 ![](./snapshots/Xnip2024-12-05_09-26-33.jpg)    ![](./snapshots/Xnip2024-12-05_09-22-43.jpg) | [@svcvit](https://blog.vcvit.me/2024/12/05/use-dify-sandbox-to-parse-files/) |
+| `File_read.yml`  | 使用sandbox读取文件并解析，需要使用[dify-sandbox-py](https://github.com/svcvit/dify-sandbox-py) ⭐ 394 \| 🐛 6 \| 🌐 Python \| 📅 2025-04-28，挂在上传目录，这是一个pandas读取csv的示例，具体方法参考右侧来源链接 ![](./snapshots/Xnip2024-12-05_09-26-33.jpg)    ![](./snapshots/Xnip2024-12-05_09-22-43.jpg) | [@svcvit](https://blog.vcvit.me/2024/12/05/use-dify-sandbox-to-parse-files/) |
 | `runLLMCode.yml` | 使用LLM生成的Code，再通过sandbox去执行。因为code节点无法直接引用LLM的代码，所以通过HTTP请求的方式执行，这里有一个分析csv的示例。 ![](./snapshots/Xnip2024-12-05_10-16-16.jpg)   ![](./snapshots/Xnip2024-12-05_10-16-25.jpg)                                                                                        | [@svcvit](https://vcvit.me/)                                                 |
 | `数据分析.7z`        | 数据分析的示例，可以根据需求查询数据库，生成对应的解读和图表。示例中包括流程文件和flask的服务。 ![](./snapshots/Xnip2024-12-05_11-10-39.jpg)   ![](./snapshots/Xnip2024-12-05_11-12-55.jpg)                                                                                                                    | 微信群：简单&平凡@                                                                   |
 
@@ -225,8 +225,8 @@ sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，�
 
 | 文件               | 描述                                                                                                                                                                                                                                                                                                                                                                | 来源                           |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| `matplotlib.yml` | 使用matplotlib画图，将图片输出为base64，再通过回复渲染图片。注意，官方sandbox权限比较复杂，安装完matplotlib也无法使用，请使用[dify-sandbox-py](https://github.com/svcvit/dify-sandbox-py) ⭐ 395 \| 🐛 6 \| 🌐 Python \| 📅 2025-04-28 。如果使用dify1.0以上版本无法渲染图片，请查看 <https://github.com/svcvit/dify-sandbox-py/issues/11> ⭐ 395 \| 🐛 6 \| 🌐 Python \| 📅 2025-04-28 ![](./snapshots/Xnip2024-11-21_09-35-09.jpg) | [@svcvit](https://vcvit.me/) |
-| `jieba.yml`      | jieba 分词示例，请使用[dify-sandbox-py](https://github.com/svcvit/dify-sandbox-py) ⭐ 395 \| 🐛 6 \| 🌐 Python \| 📅 2025-04-28  ![](./snapshots/Xnip2024-11-22_13-44-07.jpg)                                                                                                                                                                                              | [@svcvit](https://vcvit.me/) |
+| `matplotlib.yml` | 使用matplotlib画图，将图片输出为base64，再通过回复渲染图片。注意，官方sandbox权限比较复杂，安装完matplotlib也无法使用，请使用[dify-sandbox-py](https://github.com/svcvit/dify-sandbox-py) ⭐ 394 \| 🐛 6 \| 🌐 Python \| 📅 2025-04-28 。如果使用dify1.0以上版本无法渲染图片，请查看 <https://github.com/svcvit/dify-sandbox-py/issues/11> ⭐ 394 \| 🐛 6 \| 🌐 Python \| 📅 2025-04-28 ![](./snapshots/Xnip2024-11-21_09-35-09.jpg) | [@svcvit](https://vcvit.me/) |
+| `jieba.yml`      | jieba 分词示例，请使用[dify-sandbox-py](https://github.com/svcvit/dify-sandbox-py) ⭐ 394 \| 🐛 6 \| 🌐 Python \| 📅 2025-04-28  ![](./snapshots/Xnip2024-11-22_13-44-07.jpg)                                                                                                                                                                                              | [@svcvit](https://vcvit.me/) |
 
 ## 2024-11-20更新
 
@@ -312,4 +312,4 @@ sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
