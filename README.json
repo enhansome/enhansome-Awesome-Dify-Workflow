@@ -114,11 +114,11 @@
                 "id": 888874620,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-10T07:18:33Z",
+                "last_commit": "2026-10-29T06:48:09Z",
                 "open_issues": 4,
                 "owner": "apconw",
                 "repo": "Aix-DB",
-                "stars": 2256,
+                "stars": 2257,
                 "topics": [
                   "bigdata",
                   "cli",
@@ -200,7 +200,7 @@
                 "open_issues": 27,
                 "owner": "modelscope",
                 "repo": "modelscope",
-                "stars": 9195,
+                "stars": 9198,
                 "topics": [
                   "cv",
                   "deep-learning",
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T19:06:26.532Z",
+    "last_updated": "2026-10-29T19:12:25.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.",
@@ -560,7 +560,7 @@
       "open_issues": 26,
       "owner": "svcvit",
       "repo": "Awesome-Dify-Workflow",
-      "stars": 10798,
+      "stars": 10802,
       "topics": []
     },
     "original_repository_sha": "e730ed3627e5fa56fc1668d995b83178b6b1181c",
