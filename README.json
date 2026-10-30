@@ -118,7 +118,7 @@
                 "open_issues": 4,
                 "owner": "apconw",
                 "repo": "Aix-DB",
-                "stars": 2257,
+                "stars": 2258,
                 "topics": [
                   "bigdata",
                   "cli",
@@ -200,7 +200,7 @@
                 "open_issues": 27,
                 "owner": "modelscope",
                 "repo": "modelscope",
-                "stars": 9198,
+                "stars": 9201,
                 "topics": [
                   "cv",
                   "deep-learning",
@@ -237,7 +237,7 @@
                 "open_issues": 6,
                 "owner": "svcvit",
                 "repo": "dify-sandbox-py",
-                "stars": 394,
+                "stars": 395,
                 "topics": [
                   "dify",
                   "sandbox"
@@ -296,7 +296,7 @@
                 "open_issues": 6,
                 "owner": "svcvit",
                 "repo": "dify-sandbox-py",
-                "stars": 394,
+                "stars": 395,
                 "topics": [
                   "dify",
                   "sandbox"
@@ -320,7 +320,7 @@
                 "open_issues": 6,
                 "owner": "svcvit",
                 "repo": "dify-sandbox-py",
-                "stars": 394,
+                "stars": 395,
                 "topics": [
                   "dify",
                   "sandbox"
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T19:12:25.812Z",
+    "last_updated": "2026-10-30T18:51:48.308Z",
     "original_repository_info": {
       "archived": false,
       "description": "分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.",
@@ -557,10 +557,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-03-25T12:35:38Z",
-      "open_issues": 26,
+      "open_issues": 27,
       "owner": "svcvit",
       "repo": "Awesome-Dify-Workflow",
-      "stars": 10802,
+      "stars": 10804,
       "topics": []
     },
     "original_repository_sha": "e730ed3627e5fa56fc1668d995b83178b6b1181c",
