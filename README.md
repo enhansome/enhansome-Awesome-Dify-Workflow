@@ -161,7 +161,7 @@ sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，�
 
 | 文件          | 描述                                                                                                                                                                                                                                                                                         | 来源                                                                                                 |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
-| `sanic-web` | 这是一个使用DIFY作为服务层的数据库问答项目，项目有独立的web交互界面，请访问 <https://github.com/apconw/sanic-web> ⭐ 2,258 \| 🐛 4 \| 🌐 JavaScript \| 📅 2026-10-29 查看详情。项目完成度很高，按照文档一步步操作即可启动。使用ollama的qwen和deepseek模型，即可获得不错的效果。 ![](./snapshots/Xnip2025-04-17_10-25-14.jpg) ![](./snapshots/Xnip2025-04-17_10-24-49.jpg) | [sanic-web](https://github.com/apconw/sanic-web) ⭐ 2,258 \| 🐛 4 \| 🌐 JavaScript \| 📅 2026-10-29 |
+| `sanic-web` | 这是一个使用DIFY作为服务层的数据库问答项目，项目有独立的web交互界面，请访问 <https://github.com/apconw/sanic-web> ⭐ 2,259 \| 🐛 4 \| 🌐 JavaScript \| 📅 2026-10-29 查看详情。项目完成度很高，按照文档一步步操作即可启动。使用ollama的qwen和deepseek模型，即可获得不错的效果。 ![](./snapshots/Xnip2025-04-17_10-25-14.jpg) ![](./snapshots/Xnip2025-04-17_10-24-49.jpg) | [sanic-web](https://github.com/apconw/sanic-web) ⭐ 2,259 \| 🐛 4 \| 🌐 JavaScript \| 📅 2026-10-29 |
 
 ## 2025-04-16更新
 
@@ -312,4 +312,4 @@ sandbox 运行pandas，numpy>2.0，matplotlib，scikit-learn 代码老报错，�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
