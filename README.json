@@ -118,7 +118,7 @@
                 "open_issues": 4,
                 "owner": "apconw",
                 "repo": "Aix-DB",
-                "stars": 2263,
+                "stars": 2264,
                 "topics": [
                   "bigdata",
                   "cli",
@@ -200,7 +200,7 @@
                 "open_issues": 30,
                 "owner": "modelscope",
                 "repo": "modelscope",
-                "stars": 9209,
+                "stars": 9210,
                 "topics": [
                   "cv",
                   "deep-learning",
@@ -351,7 +351,7 @@
                 "open_issues": 28,
                 "owner": "andrewyng",
                 "repo": "translation-agent",
-                "stars": 5813,
+                "stars": 5812,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:52.717Z"
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:04:41.492Z",
+    "last_updated": "2026-11-07T18:17:46.888Z",
     "original_repository_info": {
       "archived": false,
       "description": "分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.",
@@ -560,7 +560,7 @@
       "open_issues": 28,
       "owner": "svcvit",
       "repo": "Awesome-Dify-Workflow",
-      "stars": 10805,
+      "stars": 10803,
       "topics": []
     },
     "original_repository_sha": "e730ed3627e5fa56fc1668d995b83178b6b1181c",
