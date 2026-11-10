@@ -118,7 +118,7 @@
                 "open_issues": 4,
                 "owner": "apconw",
                 "repo": "Aix-DB",
-                "stars": 2266,
+                "stars": 2267,
                 "topics": [
                   "bigdata",
                   "cli",
@@ -196,11 +196,11 @@
                 "id": 517552648,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T14:32:18Z",
-                "open_issues": 21,
+                "last_commit": "2026-11-10T17:03:48Z",
+                "open_issues": 19,
                 "owner": "modelscope",
                 "repo": "modelscope",
-                "stars": 9214,
+                "stars": 9215,
                 "topics": [
                   "cv",
                   "deep-learning",
@@ -237,7 +237,7 @@
                 "open_issues": 6,
                 "owner": "svcvit",
                 "repo": "dify-sandbox-py",
-                "stars": 395,
+                "stars": 394,
                 "topics": [
                   "dify",
                   "sandbox"
@@ -296,7 +296,7 @@
                 "open_issues": 6,
                 "owner": "svcvit",
                 "repo": "dify-sandbox-py",
-                "stars": 395,
+                "stars": 394,
                 "topics": [
                   "dify",
                   "sandbox"
@@ -320,7 +320,7 @@
                 "open_issues": 6,
                 "owner": "svcvit",
                 "repo": "dify-sandbox-py",
-                "stars": 395,
+                "stars": 394,
                 "topics": [
                   "dify",
                   "sandbox"
@@ -351,7 +351,7 @@
                 "open_issues": 28,
                 "owner": "andrewyng",
                 "repo": "translation-agent",
-                "stars": 5812,
+                "stars": 5813,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:52.717Z"
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:08:28.704Z",
+    "last_updated": "2026-11-10T20:36:12.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.",
@@ -560,7 +560,7 @@
       "open_issues": 28,
       "owner": "svcvit",
       "repo": "Awesome-Dify-Workflow",
-      "stars": 10801,
+      "stars": 10802,
       "topics": []
     },
     "original_repository_sha": "e730ed3627e5fa56fc1668d995b83178b6b1181c",
