@@ -197,10 +197,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-16T06:57:27Z",
-                "open_issues": 24,
+                "open_issues": 22,
                 "owner": "modelscope",
                 "repo": "modelscope",
-                "stars": 9223,
+                "stars": 9227,
                 "topics": [
                   "cv",
                   "deep-learning",
@@ -351,7 +351,7 @@
                 "open_issues": 28,
                 "owner": "andrewyng",
                 "repo": "translation-agent",
-                "stars": 5816,
+                "stars": 5817,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:52.717Z"
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T20:28:04.841Z",
+    "last_updated": "2026-11-24T01:11:56.566Z",
     "original_repository_info": {
       "archived": false,
       "description": "分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.",
